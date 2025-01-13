@@ -1,15 +1,11 @@
 ---
-
 namespace: miteshget
 
 name: eda
-
 version: 0.0.1
-
 
 authors:
   - Mitesh The Mouse
-
 description: Ansible Event Driven Automation
 
 
@@ -17,6 +13,7 @@ tags:
   - k8s
   - eda
 
+readme: README.md
 dependencies: {}
 
 
